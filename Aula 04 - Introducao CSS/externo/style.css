@@ -1,0 +1,15 @@
+body{
+    background-color: pink;
+}
+
+header{
+    background-color: palevioletred;
+}
+
+header > h1 {
+    text-align: center;
+}
+
+header > nav > a {
+    text-decoration: none;
+}
