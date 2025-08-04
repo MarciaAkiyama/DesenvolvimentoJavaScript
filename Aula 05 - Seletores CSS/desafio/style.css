@@ -1,0 +1,58 @@
+body{
+    width: 50vw;
+    margin: auto;
+}
+
+
+#titulo-destinos{
+    color: #2C3E50;
+    text-align: center;
+}
+
+.subtitulo-capitais{
+    color: #E74C3E;
+
+}
+
+.paragrafo-capitais{
+    color: #34495E;
+}
+
+#titulo-maravilhas{
+    color: #27AE60;
+    text-align: center;
+}
+
+.subtitulo-maravilhas{
+    color: #27AE60;
+}
+
+.paragrafo-maravilhas{
+    color: #34495E;
+}
+
+#titulo-cidades{
+    color: #F39C12;
+    text-align: center;
+}
+
+.subtitulo-cidades{
+    color:#F39C12 ;
+}
+
+.paragrafo-cidades{
+     color: #34495E;
+}
+
+#titulo-experiencias{
+    color: #8E44AD;
+    text-align: center;
+}
+
+.subtitulo-experiencias{
+    color: #8E44AD;
+}
+
+.paragrafo-experiencias{
+    color: #34495E;
+}
