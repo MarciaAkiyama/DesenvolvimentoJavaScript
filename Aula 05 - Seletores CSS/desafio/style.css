@@ -1,58 +1,100 @@
 body{
-    width: 50vw;
     margin: auto;
+    width: 50vw;
 }
 
-
-#titulo-destinos{
-    color: #2C3E50;
+h1{
+    font-size: 36px;
     text-align: center;
 }
 
-.subtitulo-capitais{
-    color: #E74C3E;
+h2{
+    font-size: 28px;
+}
 
+#titulo-destinos{
+    background-color: #ecf0f1;
+    color: #2C3E50;
+}
+
+
+.subtitulo-destinos{
+    background-color: #e74c3e44;
+    color: #E74C3E;
+}
+
+#titulo-maravilhas, .subtitulo-maravilhas{
+    background-color: #27ae5f42;
+    color: #27AE60;
+}
+
+#titulo-cidades, .subtitulo-cidades{
+    background-color: #f39d124f;
+    color: #F39C12;
+}
+
+#titulo-experiencias, .subtitulo-experiencias{
+    background-color: #8d44ad3b;
+    color: #8E44AD;
+}
+
+.paragrafo{
+    font-size: 1em;
+    text-align: justify;
+    line-height: 1.4;
+    color: #34495E;
+}
+
+
+.subtitulo-maravilhas{
+    color: #27AE60;
+    background-color: #27ae5f42;
+    text-align: left;
+    font-size: 28px;
 }
 
 .paragrafo-capitais{
     color: #34495E;
+    text-align: justify;
+    line-height: 1.4;
 }
 
-#titulo-maravilhas{
-    color: #27AE60;
-    text-align: center;
-}
 
-.subtitulo-maravilhas{
-    color: #27AE60;
-}
+
 
 .paragrafo-maravilhas{
     color: #34495E;
+    text-align: justify;
+    line-height: 1.4;
 }
 
-#titulo-cidades{
-    color: #F39C12;
-    text-align: center;
-}
+
 
 .subtitulo-cidades{
-    color:#F39C12 ;
+    color:#F39C12;
+    background-color: #f39d1242;
+    text-align: left;
+    font-size: 28px;
 }
 
 .paragrafo-cidades{
      color: #34495E;
+     text-align: justify;
+     line-height: 1.4;
+     
 }
 
-#titulo-experiencias{
-    color: #8E44AD;
-    text-align: center;
-}
+
 
 .subtitulo-experiencias{
     color: #8E44AD;
+    background-color: #8d44ad3a;
+    text-align: left;
+    font-size: 28px;
 }
 
 .paragrafo-experiencias{
     color: #34495E;
+    text-align: justify;
+    line-height: 1.4;
 }
