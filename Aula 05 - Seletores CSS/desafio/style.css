@@ -34,7 +34,7 @@ h2{
 }
 
 #titulo-experiencias, .subtitulo-experiencias{
-    background-color: #8d44ad3b;
+    background-color: #8d44ad3b; 
     color: #8E44AD;
 }
 
@@ -46,55 +46,7 @@ h2{
 }
 
 
-.subtitulo-maravilhas{
-    color: #27AE60;
-    background-color: #27ae5f42;
-    text-align: left;
-    font-size: 28px;
-}
-
-.paragrafo-capitais{
-    color: #34495E;
-    text-align: justify;
-    line-height: 1.4;
-}
 
 
 
 
-.paragrafo-maravilhas{
-    color: #34495E;
-    text-align: justify;
-    line-height: 1.4;
-}
-
-
-
-.subtitulo-cidades{
-    color:#F39C12;
-    background-color: #f39d1242;
-    text-align: left;
-    font-size: 28px;
-}
-
-.paragrafo-cidades{
-     color: #34495E;
-     text-align: justify;
-     line-height: 1.4;
-     
-}
-
-
-
-.subtitulo-experiencias{
-    color: #8E44AD;
-    background-color: #8d44ad3a;
-    text-align: left;
-    font-size: 28px;
-}
-
-.paragrafo-experiencias{
-    color: #34495E;
-    text-align: justify;
-    line-height: 1.4;
-}
