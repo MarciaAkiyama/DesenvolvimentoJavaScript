@@ -1,7 +1,7 @@
 function mostrarResultado(){
 
     //Captura o valor do input
-    let numero = parseInt(document.getElementById("numero").value);
+    let numero = parseInt(document.getElementById("numero").value)
 
     //Captura o sucessor e o antecessor
     let antecessor = numero - 1
