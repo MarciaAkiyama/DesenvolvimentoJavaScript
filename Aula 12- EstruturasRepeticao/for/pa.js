@@ -4,7 +4,14 @@
 // A razão da PA (r);
 // A quantidade de termos que deseja exibir (n).
 
-const input = require("prompt-sync")();
+console.log("PROGRESSÃO ARITMÉTICA")
+let razao = 2;
+let primeiroTermo = 10;
+let quantidadeTermos = 10;
 
-for(let i = razao; i <= quantidade; i++)
-    let razao = parseInt(input("Digite um numero: "))
+for(let i = 0; i < quantidadeTermos; i++){
+    let termo = primeiroTermo + razao * i
+    console.log(termo);
+    
+}
+
